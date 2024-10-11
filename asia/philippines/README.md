@@ -1,0 +1,3 @@
+# Philippines
+
+[Manila](Manila.md)
