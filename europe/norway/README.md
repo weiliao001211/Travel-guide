@@ -1,1 +1,2 @@
+# Norway
 [Oslo](./oslo.md)
