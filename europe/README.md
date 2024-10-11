@@ -1,3 +1,5 @@
 # EUROPE
  
- - [France](./france/README.md)
+* [France](./france/README.md)
+* [Italy](./Italy/README.md)
+* [Spain](./spain/README.md)
