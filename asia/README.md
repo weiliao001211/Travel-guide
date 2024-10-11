@@ -1,3 +1,6 @@
 # ASIA
+Explore the diverse regions of Asia. Click below to explore different countries.
 
-[Turkey](./turkey/README.md)
+- [Middle East](./middle_east/README.md)
+- [Philippines](./philippines/README.md)
+- [Turkey](./turkey/README.md)
