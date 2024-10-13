@@ -1,3 +1,3 @@
 # EUROPE
 
-[Cyprus](./cyprus/)
+[Cyprus](./cyprus/README.md)
